@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ujivuaba.github.io/sitemap_index.ujivuaba
